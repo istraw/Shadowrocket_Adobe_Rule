@@ -9,6 +9,6 @@
 ## 规则下载：
 https://raw.githubusercontent.com/istraw/Shadowrocket_Adobe_Rule/refs/heads/main/Adobe_Rule.module
 
-# 非小火箭用户可以通过hosts屏蔽
+## 非小火箭用户可以通过hosts屏蔽
 ## hosts规则：
 https://raw.githubusercontent.com/istraw/Shadowrocket-Adobe-Rule/refs/heads/main/hosts
