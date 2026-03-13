@@ -1,6 +1,6 @@
 # https://github.com/istraw/Shadowrocket-Adobe-Rule
 # 屏蔽Adobe正版验证
-# 更新时间：2026-03-11
+# 更新时间：2026-03-13
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 fp.adobestats.io
